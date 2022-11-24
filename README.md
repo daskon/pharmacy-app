@@ -29,10 +29,10 @@
 
 <h3>Pharmacy System Screens</h3>
 
-![image description](https://github.com/daskon/convertium-blogapp/blob/master/public/images/user_login.png)
+![image description](https://github.com/daskon/pharmacy-app/blob/main/public/images/user_login.png)
 
-![image description](https://github.com/daskon/convertium-blogapp/blob/master/public/images/user_registration.png)
+![image description](https://github.com/daskon/pharmacy-app/blob/master/public/images/user_registration.png)
 
-![image description](https://github.com/daskon/convertium-blogapp/blob/master/public/images/user_dashboard.png)
+![image description](https://github.com/daskon/pharmacy-app/blob/master/public/images/user_dashboard.png)
 
-![image description](https://github.com/daskon/convertium-blogapp/blob/master/public/images/admin_dashboard.png)
+![image description](https://github.com/daskon/pharmacy-app/blob/master/public/images/admin_dashboard.png)
